@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0805,1,1u,
+D1,LED_D3.0mm,1,OFF (RED),
+D2,LED_D3.0mm,1,ON (GRN),
+D3,D_SMA,1,SS14,
+J1,PinHeader_1x05_P2.54mm_Vertical,1,RELAY,
+J2,PinHeader_1x04_P2.54mm_Vertical,1,PROGRAM,
+"Q1, Q2",SOT-23,2,BC847,
+"R1, R2, R3, R4",0805,4,1k,
+"R5, R6",0805,2,470,
+SW1,SW_PUSH_6mm_H5mm,1,RESET,
